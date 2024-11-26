@@ -1,0 +1,1 @@
+sqlalchemy-spanner==1.7.0
